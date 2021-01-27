@@ -1,0 +1,4 @@
+Model.py是Inception-v4网络训练与测试
+data_generator.py是数据输入接口
+cut_graph.py是中心裁剪
+fileProcess.py/Img_name_classify.py/preprocess.py是采集图片格式处理
